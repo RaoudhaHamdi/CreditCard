@@ -1,0 +1,72 @@
+.main-card {
+  border-radius: 30px;
+  width: 500px;
+  height: 333px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeT1kf8uoLRRggxugL6hBXny5SMtQRU3K_EE8OuKwJMNYyjGV-");
+}
+h1 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 25px;
+  padding-right: 25px;
+  margin-right: 25px;
+  color: #fff;
+}
+.chip {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 45px;
+}
+img {
+  width: 50px;
+  height: 50px;
+}
+.confid-num {
+  font-size: 26px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 18px;
+}
+span {
+  color: #ffdf32;
+  font-weight: 600;
+  opacity: 0.9;
+}
+.num-valid {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.items {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.card-holder {
+  margin-top: 20px;
+}
+.img-item img {
+  width: 100px;
+  height: 120px;
+  margin-top: 30px;
+}
+.valid {
+  font-size: 10px;
+}
+.date-validity {
+  display: flex;
+  flex-direction: column;
+}
+.valid-trhu {
+  font-size: 10px;
+}
+.arrow {
+  width: 20px;
+  height: 20px;
+  margin-top: 15px;
+}
+.trhu {
+  display: flex;
+  margin-left: 80px;
+}
